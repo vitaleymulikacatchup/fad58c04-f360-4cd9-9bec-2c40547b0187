@@ -1,0 +1,154 @@
+/* ============================================ */
+/* CSS/SCSS Variables Extracted from Source */
+/* Auto-generated from website cloning */
+/* ============================================ */
+
+/* CSS Custom Properties (use with var(--name)) */
+:root {
+  --primary-cta: #ffcf40;
+  --card: #fdfdf0;
+  --color-primary-cta: var(--primary-cta);
+  --tw-ring-offset-color: #fff;
+  --color-white: #fff;
+  --accent: #facc15;
+  --background-accent: #ffbf00;
+  --background: #fefef5;
+  --color-black: #000;
+  --tw-border-style: none;
+  --tw-shadow-color: initial;
+  --tw-inset-shadow-color: initial;
+  --tw-ring-color: initial;
+  --tw-inset-ring-color: initial;
+  --text-2xl: 5vw;
+  --text-lg: 3.5vw;
+  --text-5xl--line-height: 1;
+  --text-2xs: 2.5vw;
+  --text-6xl: 8.5vw;
+  --text-4xl: 7vw;
+  --text-sm: 3vw;
+  --font-weight-bold: 700;
+  --font-weight-semibold: 600;
+  --font-weight-medium: 500;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --text-base: 3.25vw;
+  --default-font-family: var(--font-sans);
+  --default-mono-font-family: var(--font-mono);
+  --text-xl: 4.25vw;
+  --text-7xl: 10vw;
+  --text-xs: 2.75vw;
+  --text-8xl: 12vw;
+  --text-9xl: 14vw;
+  --tw-inset-shadow-alpha: 100%;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-drop-shadow-alpha: 100%;
+  --theme-border-radius: calc(clamp(.5rem, .8vw, 1rem) * 1.25);
+  --radius-full: 999px;
+  --radius-lg: calc(var(--vw) * 1.25);
+  --width-100: 100vw;
+  --width-95: 95vw;
+  --width-90: 90vw;
+  --width-85: 85vw;
+  --width-80: 80vw;
+  --width-75: 75vw;
+  --width-70: 70vw;
+  --width-65: 65vw;
+  --width-60: 60vw;
+  --width-55: 55vw;
+  --width-50: 50vw;
+  --width-45: 45vw;
+  --width-40: 40vw;
+  --width-35: 35vw;
+  --width-30: 30vw;
+  --width-26: clamp(19.5rem, 26vw, 26rem);
+  --width-25: 25vw;
+  --width-20: 20vw;
+  --width-17: clamp(12.75rem, 17vw, 17rem);
+  --width-21: clamp(15.75rem, 21vw, 21rem);
+  --width-carousel-item-4: var(--width-content-width);
+  --width-content-width: 80vw;
+  --height-100: 90vw;
+  --height-90: 81vw;
+  --height-80: 80vw;
+  --height-70: 70vw;
+  --height-60: 60vw;
+  --height-50: 50vw;
+  --height-40: 40vw;
+  --height-30: 25vw;
+  --height-20: 20vw;
+  --height-11: 10vw;
+  --height-10: 9vw;
+  --height-9: 8.5vw;
+  --height-8: 7.5vw;
+  --height-7: 6.5vw;
+  --height-6: 5.5vw;
+  --height-5: 4.5vw;
+  --height-4: 3.5vw;
+  --spacing: .25rem;
+}
+
+/* ============================================ */
+/* Color Variables */
+/* ============================================ */
+--primary-cta: #ffcf40;
+--tw-ring-offset-color: #fff;
+--color-white: #fff;
+--accent: #facc15;
+--background-accent: #ffbf00;
+--background: #fefef5;
+--secondary-cta: #fff;
+--tw-border-style: none;
+--color-black: #000;
+
+/* ============================================ */
+/* Spacing Variables */
+/* ============================================ */
+--width-carousel-padding-controls: calc((100vw - var(--width-content-width)) / 2 + 1px);
+--spacing: .25rem;
+--width-carousel-padding: calc((100vw - var(--width-content-width)) / 2 + 1px - var(--vw-1_5));
+--width-x-padding-mask-fade: 10vw;
+
+/* ============================================ */
+/* Typography Variables */
+/* ============================================ */
+--text-2xl: 5vw;
+--text-7xl: 10vw;
+--text-lg: 3.5vw;
+--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+--font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+--font-weight-bold: 700;
+--font-weight-semibold: 600;
+--font-weight-medium: 500;
+--text-2xs: 2.5vw;
+--text-6xl: 8.5vw;
+--text-xs--line-height: calc(1 / .75);
+--default-font-family: var(--font-sans);
+--text-xl: 4.25vw;
+--text-9xl: 14vw;
+--text-2xl--line-height: calc(2 / 1.5);
+--text-8xl: 12vw;
+--text-xl--line-height: calc(1.75 / 1.25);
+--text-sm: 3vw;
+
+/* ============================================ */
+/* Other Variables */
+/* ============================================ */
+--tw-shadow-alpha: 100%;
+--tw-inset-shadow: 0 0 #0000;
+--tw-border-color: initial;
+--tw-outline-style: none;
+--tw-gradient-via-position: 50%;
+--width-10: 10vw;
+
+/* ============================================ */
+/* Usage Guide */
+/* ============================================ */
+
+/* CSS Custom Properties (--var-name) */
+/* Use: color: var(--primary-color); */
+
+/* SCSS Variables ($var-name) */
+/* Use: color: $primary-color; */
+
+/* You can also use these in your Tailwind config */
+/* by importing this file or referencing the values */

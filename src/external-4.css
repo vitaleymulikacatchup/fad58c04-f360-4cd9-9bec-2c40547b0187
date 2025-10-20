@@ -1,0 +1,8 @@
+/* ============================================ */
+/* External CSS from https://webild.vercel.app/_next/static/css/c9f650f3572a4e1f.css */
+/* Original size: 1374 bytes */
+/* Cleaned size: 1374 bytes */
+/* Full CSS preserved - NOT truncated */
+/* ============================================ */
+
+.shift-button [data-button-animate-chars] span{display:inline-block;position:relative;text-shadow:0 calc(var(--text-sm)*1.5) currentColor;transform:translateY(0) rotate(.001deg);transition:transform .6s cubic-bezier(.215,.61,.355,1)}.shift-button:hover [data-button-animate-chars] span{transform:translateY(calc(var(--text-sm) * -1.5)) rotate(.001deg)}.shift-button:hover .shift-button-bg{transform:scale(.975)}@media (max-width:768px){.shift-button [data-button-animate-chars] span{text-shadow:0 calc(var(--text-sm)*1.5) currentColor}.shift-button:hover [data-button-animate-chars] span{transform:translateY(0) rotate(0)}.shift-button:hover .shift-button-bg{transform:scale(1)}}.stagger-button [data-button-animate-chars] span{display:inline-block;position:relative;text-shadow:0 calc(var(--text-sm)*1.5) currentColor;transform:translateY(0) rotate(.001deg);transition:transform .6s cubic-bezier(.215,.61,.355,1)}.stagger-button:hover [data-button-animate-chars] span{transform:translateY(calc(var(--text-sm) * -1.5)) rotate(.001deg)}.stagger-button:hover .stagger-button-bg{transform:scale(.975)}@media (max-width:768px){.stagger-button [data-button-animate-chars] span{text-shadow:0 calc(var(--text-sm)*1.5) currentColor}.stagger-button:hover [data-button-animate-chars] span{transform:translateY(0) rotate(0)}.stagger-button:hover .stagger-button-bg{transform:scale(1)}}
